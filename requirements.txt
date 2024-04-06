@@ -1,0 +1,2 @@
+google-generativeai==0.4.1
+interactions.py==5.11.0
